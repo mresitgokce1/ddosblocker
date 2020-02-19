@@ -1,0 +1,2 @@
+Üniversitede bir ders için geliştirilen projedir, projenin amacı DDoS saldırılarının engellenmesdir. 
+Ancak DDoS saldırılarının engellenmesi tam anlamıyla mümkün değildir, bunun için örnek bir kullanıcı-sunucu oluşturulup, çok sık istekte bulunan ip'ler devre dışı bırakıldı.
