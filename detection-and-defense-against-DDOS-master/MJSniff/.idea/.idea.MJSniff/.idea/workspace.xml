@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="351c3ba1-800d-43ba-908e-22622da335fd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>192</find>
+      <find>barray</find>
+      <find>onreceive</find>
+      <find>dropped</find>
+      <find>sorgula</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BizimListeArray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MJsnifferForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MJsnifferForm.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BizimListe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MJsnifferForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BizimListe.cs" />
+        <option value="$PROJECT_DIR$/BizimListeArray.cs" />
+        <option value="$PROJECT_DIR$/MJsnifferForm.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MJSniff (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MJSniff (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MJsniffer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351c3ba1-800d-43ba-908e-22622da335fd" name="Default" comment="" />
+      <created>1514912241042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514912241042</updated>
+      <workItem from="1514912242145" duration="2628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2628000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2029762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MJsnifferForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="352" column="91" lean-forward="false" selection-start-line="352" selection-start-column="91" selection-end-line="352" selection-end-column="91" />
+          <folding>
+            <marker date="1514914266600" expanded="false" signature="6:228" ph="..." />
+            <marker date="1514914266600" expanded="true" signature="249:23134" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="282:350" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="398:23129" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="1053:2121" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="1076:2076" ph="/* Type typeFWPolicy2 = Type.GetTypeFromCLSID(new Guid(guidFWPolicy2)); ... */" />
+            <marker date="1514914266600" expanded="true" signature="2186:4843" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="2238:2448" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="2464:4670" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="2527:4395" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="2714:2882" ph="/* For sniffing the socket to capture the packets has to be a raw socket, with the ... */" />
+            <marker date="1514914266600" expanded="true" signature="3873:4003" ph="/* Equivalent to SIO_RCVALL constant ... */" />
+            <marker date="1514914266600" expanded="true" signature="4416:4656" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="4703:4833" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="4892:6752" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="4918:6491" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="5081:5169" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="5210:5972" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="5249:5311" ph="/* update dropped text ... */" />
+            <marker date="1514914266600" expanded="true" signature="5572:5954" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6014:6376" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6101:6205" ph="/* Another call to BeginReceive so that we continue to receive the incoming ... */" />
+            <marker date="1514914266600" expanded="true" signature="6397:6455" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6535:6563" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6596:6728" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6852:7401" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="6975:7154" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7198:7226" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7259:7391" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7451:8310" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7477:8065" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7689:8051" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="7776:7880" ph="/* Another call to BeginReceive so that we continue to receive the incoming ... */" />
+            <marker date="1514914266600" expanded="true" signature="8109:8137" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="8170:8300" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="8374:13328" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="8411:8590" ph="/* Since all protocol packets are encapsulated in the IP datagram ... */" />
+            <marker date="1514914266600" expanded="true" signature="8682:8801" ph="/* Now according to the protocol being carried by the IP datagram we parse ... */" />
+            <marker date="1514914266600" expanded="true" signature="8900:13305" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="9035:9186" ph="/* IPHeader.Data stores the data being ... */" />
+            <marker date="1514914266600" expanded="true" signature="9418:10778" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="9666:9727" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="10127:10615" ph="/* forward packet to server ... */" />
+            <marker date="1514914266600" expanded="true" signature="10961:11112" ph="/* IPHeader.Data stores the data being ... */" />
+            <marker date="1514914266600" expanded="true" signature="11419:11570" ph="/* IPHeader.Data stores the data being ... */" />
+            <marker date="1514914266600" expanded="true" signature="11802:13126" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="12050:12111" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="12475:12963" ph="/* forward packet to server ... */" />
+            <marker date="1514914266600" expanded="true" signature="13459:21632" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="13501:21605" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="13941:15591" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="14035:14652" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="14421:14630" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="14700:14905" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="14952:15572" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="15341:15550" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="15677:21591" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="15772:17425" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="16154:16363" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="16390:16511" ph="/* mainSocket = new Socket(AddressFamily.InterNetwork, ... */" />
+            <marker date="1514914266600" expanded="true" signature="16639:17117" ph="/* mainSocket.SetSocketOption(SocketOptionLevel.IP,            //Applies only to IP packets ... */" />
+            <marker date="1514914266600" expanded="true" signature="17144:17346" ph="/* mainSocket.IOControl(IOControlCode.ReceiveAll,              //Equivalent to SIO_RCVALL constant ... */" />
+            <marker date="1514914266600" expanded="true" signature="17485:18048" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="17871:18026" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="18141:18701" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="18524:18679" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="18827:19408" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="19231:19386" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="19501:20078" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="19901:20056" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="20171:20750" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="20571:20728" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="20775:21572" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="20844:21069" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="21120:21505" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="21744:22812" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="22567:22790" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="22645:22776" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="22897:23017" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="22943:23007" ph="{...}" />
+            <marker date="1514914266600" expanded="true" signature="23102:23123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BizimListeArray.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding>
+            <marker date="1514913719442" expanded="true" signature="6:66" ph="..." />
+            <marker date="1514913719442" expanded="true" signature="87:982" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="122:980" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="201:265" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="312:596" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="356:439" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="456:586" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="641:956" ph="{...}" />
+            <marker date="1514913719442" expanded="true" signature="694:891" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BizimListe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1514912586992" expanded="true" signature="34:457" ph="{...}" />
+            <marker date="1514912586992" expanded="true" signature="64:455" ph="{...}" />
+            <marker date="1514912586992" expanded="true" signature="310:449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MJsnifferForm.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1485066200000" expanded="true" signature="19:5044" ph="{...}" />
+            <marker date="1485066200000" expanded="true" signature="53:5042" ph="{...}" />
+            <marker date="1485066200000" expanded="true" signature="68:144" ph="/// Required designer variable. ... " />
+            <marker date="1485066200000" expanded="true" signature="222:413" ph="/// Clean up any resources being used. ... " />
+            <marker date="1485066200000" expanded="true" signature="469:643" ph="{...}" />
+            <marker date="1485066200000" expanded="true" signature="530:596" ph="{...}" />
+            <marker date="1485066200000" expanded="true" signature="653:4755" ph="Windows Form Designer generated code" />
+            <marker date="1485066200000" expanded="true" signature="707:870" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1485066200000" expanded="true" signature="913:4735" ph="{...}" />
+            <marker date="1485066200000" expanded="true" signature="1295:1338" ph="/* btnStart ... */" />
+            <marker date="1485066200000" expanded="true" signature="1915:1963" ph="/* cmbInterfaces ... */" />
+            <marker date="1485066200000" expanded="true" signature="2730:2774" ph="/* listView1 ... */" />
+            <marker date="1485066200000" expanded="true" signature="3085:3129" ph="/* checkBox1 ... */" />
+            <marker date="1485066200000" expanded="true" signature="3524:3565" ph="/* label1 ... */" />
+            <marker date="1485066200000" expanded="true" signature="3888:3936" ph="/* MJsnifferForm ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MJsnifferForm.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
